@@ -95,5 +95,3 @@ while (i <= 20) {
     console.log('this is number' + i)
     i++
 }
-
-
