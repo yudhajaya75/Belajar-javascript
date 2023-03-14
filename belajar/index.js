@@ -49,9 +49,6 @@ console.log(thisNumber);
 console.log(thisString);
 console.log(thisSymbol);
 
-
-/* 
-*/
 console.log(user);
 console.log(user.age);
 
